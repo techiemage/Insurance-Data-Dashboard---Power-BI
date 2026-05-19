@@ -74,8 +74,4 @@ Business Intelligence & Data Storytelling
 <img width="1412" height="796" alt="Power bi Dashboard" src="https://github.com/user-attachments/assets/8e3659da-7dd9-4b9b-a773-cb9db80e77b7" />
 
 
-📌 About Me
 
-👤 Supriya Singh
-📊 Aspiring Data Analyst | Excel • SQL • Python • Power BI
-🔗 GitHub: https://github.com/ss10200116-svg
